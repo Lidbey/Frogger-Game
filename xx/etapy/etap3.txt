@@ -1,0 +1,25 @@
+car 0 pos x= -100 y=427
+car 0 speed= 9
+obstacle 0 pos x= 200 y=217
+obstacle 0 speed= 8
+car 1 pos x= 300 y=392
+car 1 speed= 8
+obstacle 1 pos x= 500 y=182
+obstacle 1 speed= 7
+car 2 pos x= 600 y=357
+car 2 speed= 7
+obstacle 2 pos x= 451 y=147
+obstacle 2 speed= 6
+car 3 pos x= 1132 y=322
+car 3 speed= 6
+obstacle 3 pos x= 294 y=112
+obstacle 3 speed= 5
+car 4 pos x= 1006 y=287
+car 4 speed= 5
+obstacle 4 pos x= 560 y=77
+obstacle 4 speed= 4
+health= 5
+frog pos x= 320 y=462
+maxTime= 30
+number of cars 1= 7 2= 6 3= 5 4= 4 5= 3
+number of obstacles 1= 4 2= 6 3= 3 4= 6 5=5
