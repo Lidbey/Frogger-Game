@@ -5,3 +5,6 @@ It is a frogger game done in C language.
 3. Save game on 'C'
 4. Pause on 'P'
 5. And some more that are checked during playing :)
+
+
+Some note: download 'xx' folder and rename it to 'Frogger', to play open file Frogger.exe
