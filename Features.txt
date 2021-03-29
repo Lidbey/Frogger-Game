@@ -1,10 +1,15 @@
 It is a frogger game done in C language.
 
 1. There are implemented phases, which also can be added by adding a new 'etapN.txt' file
-2. Bot on 'X'
+2. Bot on 'X' (very simple, trying to randomly find a way to the victory)
 3. Save game on 'C'
 4. Pause on 'P'
 5. And some more that are checked during playing :)
 
 
 Some note: download 'xx' folder and rename it to 'Frogger', to play open file Frogger.exe
+
+You can add your own levels, by introducing a new .txt file according to a template(name file etapN where n is the level number), see the skeleton of a file by checking different 'etapN.txt'
+
+There is highscore that's saved into a file
+
